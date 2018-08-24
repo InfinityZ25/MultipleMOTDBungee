@@ -1,0 +1,4 @@
+name: MultipleMOTDBungee
+main: me.infinity.plugins.multiplemotdbungee.MultipleMOTD
+version: 1.0
+author: Infinity
