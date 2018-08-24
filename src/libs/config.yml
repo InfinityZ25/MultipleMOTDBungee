@@ -1,0 +1,11 @@
+Servers:
+  Server1:
+    ip: 'ip1.test.net'
+    motd: '&cServer Ip1'
+    file: 'icon1.png'
+  Server2:
+    ip: 'ip2.test.net'
+    motd: 'icon2.png'
+Default:
+  motd: '&cMotd'
+  
