@@ -8,4 +8,7 @@ Servers:
     motd: 'icon2.png'
 Default:
   motd: '&cMotd'
-  
+use-communication-channel: true
+communication-channel: 'MultiMOTD'
+communication-message-format: '<Player> connected <Server> thru <ServerName>'
+log-messages: true
